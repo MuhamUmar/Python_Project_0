@@ -1,3 +1,1 @@
-print("Hello, World!")
-
-input(Name :)
+print("Hello")
